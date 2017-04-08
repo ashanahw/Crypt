@@ -4,7 +4,7 @@ This is a simple file encryptor written using bash.Symmetric encryption is used 
 ## How to setup
 Download the repository and execute the crypt.sh script using the command "sh crypt.sh"
 
-for more information read
+### for more information read
+https://knowyoursec.blogspot.com/2017/04/encryption.html
 
 
-supports most of the file formats including .pdf .txt .zip and most video formats
