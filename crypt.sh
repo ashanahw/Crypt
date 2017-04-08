@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 #this is a script to encrypt all files in a user given directory
 
